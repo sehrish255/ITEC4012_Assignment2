@@ -1,0 +1,9 @@
+For this project I decided to include the home, login, navbar, product, footer, and navbar
+I thought these were important to have on Amazon since the home is where the main page is,
+Login is important to amazon since it's where prime members can access their profile. 
+The navbar is great for navigating to different parts of the site. Footer is important
+for navigating to the things unrelated to the main site and products like returns and policies, and the products
+are what Amazon is famous for. I apologize that the site can't load due to errors in the code.
+Initially the navbar showed up on localhost, but after that I continued to get errors and I wasn't sure
+how to fix it, which made writing the code difficult since I couldn't see what I was doing after that.
+The code references are from tutorials, various sites for help (like stack overflow), and https://www.youtube.com/watch?v=RDV3Z1KCBvo.
